@@ -3,7 +3,7 @@
 <body bgcolor="#def28d">
 
 <h2 style="color: #731768;">
- From today onward i'm a system engenier working as a Devops
+ You can win and defeat masturbastion in the name of Jesus!
 </h2>
 
 

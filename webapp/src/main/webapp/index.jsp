@@ -26,6 +26,7 @@ Manasseh repents. He confesses. And even more surprisingly, God forgives Manasse
 But the story of Manasseh is recorded to teach us this valuable lesson: genuine repentance unlocks the door of God’s mercy. Manasseh removed all of his perversions and evils from Judah (2 Chron. 33:14–16). He completely changed and served God until he died. 
 It does not matter what you have done in your past. You can change your tomorrow—just like Manasseh did. All you need to do is confess to God and repent (1 John 1:9). Learn the lesson of Manasseh.                    
 
+your are the master Levis
  </h3>
 <h1> Good job Serge on learning Devops</h1>
 <h1> Today monday the 10/26/2020 i'll be leading my first devops interview. I'll get the job!!!!</h1>

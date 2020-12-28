@@ -1,5 +1,5 @@
 # Pull base image 
-From tomcat: latest 
+From tomcat:latest 
 
 # Maintainer 
 MAINTAINER "muyalevis@gmail.com" 
